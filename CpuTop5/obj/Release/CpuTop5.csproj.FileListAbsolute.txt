@@ -1,0 +1,5 @@
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\CpuTop5\CpuTop5\bin\Release\CpuTop5.exe
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\CpuTop5\CpuTop5\bin\Release\CpuTop5.pdb
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\CpuTop5\CpuTop5\obj\Release\ResolveAssemblyReference.cache
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\CpuTop5\CpuTop5\obj\Release\CpuTop5.exe
+G:\Documents and Settings\wbm\My Documents\Visual Studio 2008\Projects\CpuTop5\CpuTop5\obj\Release\CpuTop5.pdb
